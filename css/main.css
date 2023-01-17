@@ -572,6 +572,10 @@ justify-content: space-between;
 }
 /* line 1 start */
 
+.footer .parent .line{
+    width: 10%;
+}
+
 .footer .parent .line h5{
     font-size: 20px;
     padding-bottom: 13%;
